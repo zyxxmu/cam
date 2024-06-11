@@ -141,14 +141,16 @@ The average perplexity(ppl) for selected samples is recorded at "output_dir "
 
 
 
+## Citation
 
+if you find this repo is helpful, please cite: 
 
 ```bibtex
-@article{zhang2024CaM,
+@inproceedings{zhang2024CaM,
   title={CaM: Cache Merging for Memory-efficient LLMs Inference}, 
   author={Yuxin Zhang, Yuxuan Du, Gen Luo, Yunshan Zhong, Zhenyu Zhang, Shiwei Liu, Rongrong Ji},
   year={2024},
-  journal={arxiv:}
+  booktitle={International Conference on Machine Learning},
 }
 ```
 
