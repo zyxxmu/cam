@@ -1,4 +1,4 @@
-# CaM: Cache Merging for Memory-efficient LLMs Inference
+# CaM: Cache Merging for Memory-efficient LLMs Inference ([Paper Link](https://openreview.net/forum?id=LCTmppB165))
 
 Official PyTorch implementation of **CaM** (Cache Merging), as presented in our paper accepted at ICML 2024:
 
